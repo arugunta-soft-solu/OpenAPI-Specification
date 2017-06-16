@@ -54,6 +54,11 @@ Looking to see how you can create your own OpenAPI definition, present it or oth
 
 (Yes, there used to be a really long list here, we just moved it to the main website)
 
+## A Presentation 
+
+A powerpoint presenation to explain the OpenAPI Specification. You can client below link to download to this 
+presentation [presentation](./Swagger-PresentationV1.0.pptx). 
+
 ## License
 
 Copyright 2016 The Linux Foundation
